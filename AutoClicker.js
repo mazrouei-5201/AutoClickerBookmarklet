@@ -1,5 +1,5 @@
 (function () {
-  const DELAY_DEFAULT = 1000;
+  const DELAY_DEFAULT = 5000;
   let delay = DELAY_DEFAULT;
   let clickingInterval, x, y;
   let clickActive = false;
